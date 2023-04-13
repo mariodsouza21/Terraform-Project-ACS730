@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+*.pub
+Group9-staging
+Group9-prod
+Group9-dev
